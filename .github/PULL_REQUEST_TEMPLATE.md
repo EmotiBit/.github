@@ -26,6 +26,5 @@ Link to a change in documentation (if any)
 
 - [ ] doxygen style comments included
 - [ ] Required documentation udpated
-- [ ] 
 
 ## Screenshots:
