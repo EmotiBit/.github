@@ -23,7 +23,8 @@ Link to a change in documentation (if any)
 |-----|--------|------|
 
 # Checklist:
-
+- [ ] Release checklist completed (FW/ SW)
+  - Make sure the required settings have been set to default before merging into master.
 - [ ] doxygen style comments included
 - [ ] Required documentation udpated
 
