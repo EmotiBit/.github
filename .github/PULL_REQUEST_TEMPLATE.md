@@ -23,6 +23,7 @@ Link to a change in documentation (if any)
 |-----|--------|------|
 
 # Checklist:
+- [ ] All dependent repositories used were on branch `master`
 - [ ] Release checklist completed (FW/ SW)
   - Make sure the required settings have been set to default before merging into master.
 - [ ] doxygen style comments included
