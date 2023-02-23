@@ -33,7 +33,6 @@ Link to a change in documentation (if any)
   - [ ] Set const bool `DIGITAL_WRITE_DEBUG` = false (if set true while testing)
   - [ ] Update version in EmotiBit.h
   - [ ] Update library.properties to the correct version (should match EmotiBit.h)
-- [ ] Installers (for windows) and project file (for macOS) are updated with any new file to be added with the distributables.
 - [ ] Update software bundle version in `ofxEmotiBitVersion.h`
 - [ ] doxygen style comments included for new code snippets
 - [ ] Required documentation udpated
