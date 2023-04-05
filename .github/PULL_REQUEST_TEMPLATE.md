@@ -35,6 +35,6 @@ Link to a change in documentation (if any)
   - [ ] Update library.properties to the correct version (should match EmotiBit.h)
 - [ ] Update software bundle version in `ofxEmotiBitVersion.h`
 - [ ] doxygen style comments included for new code snippets
-- [ ] Required documentation udpated
+- [ ] Required documentation updated
 
 ## Screenshots:
