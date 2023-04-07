@@ -13,14 +13,18 @@
 Link to a change in documentation (if any)
 
 # Testing
+## List of conditions to be tested
+- Example FW/SW compatibility
 
-**Test Configuration**:
-* Firmware version:
-* Hardware:
-* EmotiBit software version
+## Steps to test
+- List the steps for the reviewer to perform testing.
 
-|Test | Result | Link |
-|-----|--------|------|
+## Results
+
+
+# Shared files
+- Firmware binary: [Link to firmware binary]
+- Other files.
 
 # Checklist to allow merge
 - [ ] All dependent repositories used were on branch `master`
