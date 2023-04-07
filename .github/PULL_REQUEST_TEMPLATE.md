@@ -12,6 +12,9 @@
 # Documentation update
 Link to a change in documentation (if any)
 
+# Notes for Reviewer
+- Add detailed notes explaining code changes, algorithms or any other information that can help the reviewer understand the PR better.
+
 # Testing
 ## List of conditions to be tested
 - Example FW/SW compatibility
