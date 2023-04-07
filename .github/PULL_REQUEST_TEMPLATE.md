@@ -27,8 +27,8 @@ Link to a change in documentation (if any)
 - Software
   - [ ] Get approval from the reviewer
   - [ ] Passed testing on Windows
-  - [ ] Passed testing on macOS (for major changes/GUI changes/ PRs adding files distributed with the EmotiBit software)
-  - [ ] Passed testing on linux (ubuntu) (for major changes/GUI changes/ PRs adding files distributed with the EmotiBit software)
+  - [ ] Passed testing on macOS *(for major changes/GUI changes/ PRs adding files distributed with the EmotiBit software)*
+  - [ ] Passed testing on linux (ubuntu) *(for major changes/GUI changes/ PRs adding files distributed with the EmotiBit software)*
   - [ ] Update software bundle version in `ofxEmotiBitVersion.h`
 - Firmware
   - [ ] Set testingMode to TestingMode::NONE
