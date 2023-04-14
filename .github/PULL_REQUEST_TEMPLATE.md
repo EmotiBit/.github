@@ -46,7 +46,7 @@ Link to a change in documentation (if any)
 - [ ] Required documentation updated
 
 ## Unit test
-Specify the name of unit tests created/added with this feature add/bug fix. Add this new test into the EmotiBit Feature Test Protocol document.
+Specify the name of unit tests created/added with this feature add/bug fix. Add this new test into the `EmotiBit Feature Test Protocol` document.
  
 
 ## Screenshots:
