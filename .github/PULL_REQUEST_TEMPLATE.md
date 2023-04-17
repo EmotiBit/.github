@@ -16,6 +16,9 @@ Link to a change in documentation (if any)
 - Add detailed notes explaining code changes, algorithms or any other information that can help the reviewer understand the PR better.
 
 # Testing
+<!--- The testing results should be added to the main PR behind this bug-fix/ feature-add -->
+If another linked PR is the main PR for this bug-fix/ feature-add, please add the link to that PR here with the explicit statement "testing results added to PR(link)". You may then remove the testing section from this PR.
+
 ## List of conditions to be tested
 - Example FW/SW compatibility
 
