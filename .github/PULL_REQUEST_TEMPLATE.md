@@ -17,7 +17,7 @@ Link to a change in documentation (if any)
 
 # Testing
 <!--- The testing results should be added to the main PR behind this bug-fix/ feature-add -->
-If another linked PR is the main PR for this bug-fix/ feature-add, please add the link to that PR here with the explicit statement "testing results added to PR(link)". You may then remove the testing section from this PR.
+If another **linked PR** is the main PR for this bug-fix/ feature-add, you may then remove the testing section from this PR and add the link to that PR here with the explicit statement "testing results added to PR(link)". 
 
 ## List of conditions to be tested
 - Example FW/SW compatibility
