@@ -20,13 +20,14 @@ Link to a change in documentation (if any)
 If another **linked PR** is the main PR for this bug-fix/ feature-add, you may then remove this testing section and add a link to the main PR here with the explicit statement "testing results added to PR(link)". 
 
 ## Results
+<!--- The main results should be recorded in the appropriate testing results sheet -->
 - Synopsis of results, details if required.
-- The main results should be recorded in the appropriate testing results sheet.
 
 ## Unit Tests
-For each test case, create a unit test in the `EmotiBit Feature Test Protocol` document. 
-- For firmware, the corresponding results recorded in the `EmotiBit Feature Testing Results` sheet.
-- For software, the corresponding results are recorded in the `EmotiBit Software Testing Records` sheet. 
+<!--- For each test case, create a unit test in the `EmotiBit Feature Test Protocol` document. -->
+<!--- For firmware, the corresponding results recorded in the `EmotiBit Feature Testing Results` sheet. -->
+<!--- For software, the corresponding results are recorded in the `EmotiBit Software Testing Records` sheet. -->
+Add the test heading from "EmotiBit Feature Test Protocol" here.
 
 ## Steps to test
 Import the steps from the `EmotiBit Feature Test Protocol` for quick access for the reviewer
