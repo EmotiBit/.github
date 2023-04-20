@@ -25,8 +25,8 @@ If another **linked PR** is the main PR for this bug-fix/ feature-add, you may t
 
 ## Unit Tests
 For each test case, create a unit test in the `EmotiBit Feature Test Protocol` document. 
-For firmware, the corresponding results recorded in the `EmotiBit Feature Testing Results` sheet.
-For software, the corresponding results are recorded in the `EmotiBit Software Testing Records` sheet. 
+- For firmware, the corresponding results recorded in the `EmotiBit Feature Testing Results` sheet.
+- For software, the corresponding results are recorded in the `EmotiBit Software Testing Records` sheet. 
 
 ## Steps to test
 Import the steps from the `EmotiBit Feature Test Protocol` for quick access for the reviewer
