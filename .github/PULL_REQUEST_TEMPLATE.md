@@ -17,13 +17,14 @@ Link to a change in documentation (if any)
 
 # Testing
 <!--- The testing results should be added to the main PR behind this bug-fix/ feature-add -->
-If another **linked PR** is the main PR for this bug-fix/ feature-add, you may then remove the testing section from this PR and add the link to that PR here with the explicit statement "testing results added to PR(link)". 
+If another **linked PR** is the main PR for this bug-fix/ feature-add, you may then remove this testing section and add a link to the main PR here with the explicit statement "testing results added to PR(link)". 
 
 ## Unit Tests
 For each test case, create a unit test in the `EmotiBit Feature Test Protocol` document. The corresponding unit test should be performed and ressults recorded in the `EmotiBit Feature Testing Results` sheet.
 
 ## Steps to test
-- Import the steps from the `EmotiBit Feature Test Protocol` for quick access for the reviewer
+Import the steps from the `EmotiBit Feature Test Protocol` for quick access for the reviewer
+
 
 ## Results
 - Synopsis of results, details if required.
