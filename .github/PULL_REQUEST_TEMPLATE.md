@@ -21,7 +21,7 @@ If another **linked PR** is the main PR for this bug-fix/ feature-add, you may t
 
 ## Results
 - Synopsis of results, details if required.
-- The main results should be recorded in the `EmotiBit Feature Testing Results` sheet
+- The main results should be recorded in the appropriate testing results sheet.
 
 ## Unit Tests
 For each test case, create a unit test in the `EmotiBit Feature Test Protocol` document. 
