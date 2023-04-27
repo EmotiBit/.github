@@ -28,4 +28,4 @@ Steps to reproduce the behavior:
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-<!--- Dont forget to label the feature appropriately
+<!--- Dont forget to label the bug appropriately
