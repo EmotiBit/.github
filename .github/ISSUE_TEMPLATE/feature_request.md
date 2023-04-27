@@ -1,3 +1,11 @@
+---
+name: "\U0001F680 Feature Request"
+about: "I have a suggestion (and may want to implement it \U0001F642)!"
+title: ''
+labels: 'i: enhancement'
+assignees: ''
+
+---
 **Describe the feature**
 Give a concise description of the feature request.
 
