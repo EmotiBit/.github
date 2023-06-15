@@ -17,7 +17,7 @@ Link to a change in documentation (if any)
 
 # Testing
 <!--- The testing results should be added to the main PR behind this bug-fix/ feature-add -->
-If another **linked PR** is the main PR for this bug-fix/ feature-add, you may then remove this testing section and add a link to the main PR here with the explicit statement "testing results added to PR(link)". 
+<!--- If another **linked PR** is the main PR for this bug-fix/ feature-add, you may then remove this testing section and add a link to the main PR here with the explicit statement "testing results added to PR(link)". -->
 
 ## Results
 <!--- The main results should be recorded in the appropriate testing results sheet -->
