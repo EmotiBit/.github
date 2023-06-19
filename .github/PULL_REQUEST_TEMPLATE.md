@@ -46,7 +46,7 @@ Link to a change in documentation (if any)
   - [ ] Update software bundle version in `ofxEmotiBitVersion.h`
 - Firmware
   - [ ] Set testingMode to TestingMode::NONE
-  - [ ] Set const bool `DIGITAL_WRITE_DEBUG` = false (if set true while testing)
+  - [ ] Set [const bool `DIGITAL_WRITE_DEBUG`](https://github.com/EmotiBit/EmotiBit_FeatherWing/blob/e2ed2dcb70c57c33f70e3a131f82c16627b519df/EmotiBit.h#L58) = false (if set true while testing)
   - [ ] Update version in EmotiBit.h
   - [ ] Update library.properties to the correct version (should match EmotiBit.h)
 - [ ] doxygen style comments included for new code snippets
