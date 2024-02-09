@@ -15,6 +15,9 @@ Link to a change in documentation (if any)
 # Notes for Reviewer
 - Add detailed notes explaining code changes, algorithms or any other information that can help the reviewer understand the PR better.
 
+# List of new distributable files
+- Name all new files added with this PR that need to be distributed with the release package. This includes files like `.json`, `.xml` settings files etc.
+
 # Testing
 <!--- The testing results should be added to the main PR behind this bug-fix/ feature-add -->
 <!--- If another **linked PR** is the main PR for this bug-fix/ feature-add, you may then remove this testing section and add a link to the main PR here with the explicit statement "testing results added to PR(link)". -->
