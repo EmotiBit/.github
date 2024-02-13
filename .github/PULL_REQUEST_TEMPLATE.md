@@ -32,9 +32,6 @@ Link to a change in documentation (if any)
 <!--- For software, the corresponding results are recorded in the `EmotiBit Software Testing Records` sheet. -->
 <!--- Add the test heading from "EmotiBit Feature Test Protocol" here. -->
 
-## Steps to test
-<!--- Import the steps from the `EmotiBit Feature Test Protocol` for quick access for the reviewer -->
-
 # Shared files
 - Firmware binary: [Link to firmware binary]
 - Other files.
