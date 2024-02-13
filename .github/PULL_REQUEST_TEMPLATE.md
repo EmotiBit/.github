@@ -15,7 +15,7 @@ Link to a change in documentation (if any)
 # Notes for Reviewer
 - Add detailed notes explaining code changes, algorithms or any other information that can help the reviewer understand the PR better.
 
-# List of new distributable files
+# List of new distributable files (For software PR only)
 - Name all new files added with this PR that need to be distributed with the release package. This includes files like `.json`, `.xml` settings files etc.
 
 # Testing
