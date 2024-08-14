@@ -28,7 +28,7 @@ Follow the steps below to create releasea release for EmotiBit firmware.
 - name2 - #number2
 
 # Compatibility
-- A complete list of dependencies and corresponding versions.
+- A complete list of dependencies and corresponding versions. (see helper scripts below to get list of library versions)
 ```
 
 ## Creating distributable binary
