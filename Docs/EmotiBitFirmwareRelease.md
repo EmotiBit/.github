@@ -40,6 +40,13 @@ Follow the steps below to create releasea release for EmotiBit firmware.
     - For example:
     - There are 2 binaries for the stock firmware (Feather M0 and ESP32)
     - There are 2 binaries for 100Hz PPG (Feather M0 and ESP32)
+  - Binary naming
+    - `EmotiBit_stock_firmware_<firmware_variant>.<feather_variant>.bin`
+    - Examples:
+      - `EmotiBit_stock_firmware.feather_esp32.bin`
+      - `EmotiBit_stock_firmware.feather_m0.bin`
+      - `EmotiBit_stock_firmware_PPG_100Hz.feather_esp32.bin`
+      - `EmotiBit_stock_firmware_PPG_100Hz.feather_m0.bin`
 - Add the binaries to the draft release
   - Add the created binaries to the draft release
 - Create releases for any dependency
