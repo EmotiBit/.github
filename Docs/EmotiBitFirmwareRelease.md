@@ -13,6 +13,7 @@ Follow the steps below to create releasea release for EmotiBit firmware.
 - [ ] Verify that the FW version in `EmotiBit.h` matches the version in `library.properties`.
 - [ ] Tag the latest commit on the master(after merging the PR). The tag name is the same as the library version, prefixed by `v`.
   - For example, if the release is 2.0.0, the tag will be `v2.0.0`.
+  - See [git tag documentation](https://git-scm.com/book/en/v2/Git-Basics-Tagging) for help with creating tags.
 
 ### Template draft release
 ```
