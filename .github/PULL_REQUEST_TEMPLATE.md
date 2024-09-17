@@ -2,6 +2,9 @@
 <!--- Describe your changes in detail -->
 
 # Requirements
+<!--- This sections defines on a high level what the reviewer might need to test/conduct a review. This can include other PRs, toolchains, softwares, files etc. -->
+<!--- For example, Requirements can be a specific branch of another repository that is a dependency. -->
+<!--- Another example can be downloading tools like VS or anaconda -->
 - PR #(Link PR)
 
 
@@ -15,6 +18,8 @@ Link to a change in documentation (if any)
 # Notes for Reviewer
 - Add detailed notes explaining code changes, algorithms or any other information that can help the reviewer understand the PR better.
 
+
+<!--- The following section is relevant only for PRs in ofxEmotiBit repository. delete the section if creating a PR for ay other repo. -->
 # List of new distributable files (For software PR only)
 - Name all new files added with this PR that need to be distributed with the release package. This includes files like `.json`, `.xml` settings files etc.
 
