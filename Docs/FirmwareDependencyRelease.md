@@ -26,4 +26,6 @@ Follow the steps below to create releases for libraries EmotiBit Firmware is usi
 # Compatibility
 - Highlight if this version is incompatible with an earlier version of emotibit firmware.
 ```
-
+## Note on Firmware dependencies
+- Since we offer Arduino support, all dependency libraries are picked up by the [Arduino library registry](https://github.com/arduino/library-registry?tab=readme-ov-file). All EmotiBit libraries conform to the Arduino-registry requirements.
+- Once a release is created, it should be picked up by the Arduino registry within a day. Devs can view the availability of the new library in Arduino IDE to make sure the release was picked up by Arduino.
