@@ -27,15 +27,20 @@ Link to a change in documentation (if any)
 <!--- The testing results should be added to the main PR behind this bug-fix/ feature-add -->
 <!--- If another **linked PR** is the main PR for this bug-fix/ feature-add, you may then remove this testing section and add a link to the main PR here with the explicit statement "testing results added to PR(link)". -->
 
-## Results
-<!--- The main results should be recorded in the appropriate testing results sheet -->
-- Synopsis of results, details if required.
+## Feature Tests (Integration tests)
+<!--- For each test case, create a feature test in the `EmotiBit Feature Test Protocol` document. -->
+<!--- The corresponding results are recorded in the `EmotiBit Feature Testing Results` sheet. -->
+<!--- Update the table below with the test results -->
+|Feature Test | Result|
+|--------------|-------|
+|Feature test 1| ✔️ or ✖️|
 
-## Feature Tests
-<!--- For each test case, create a unit test in the `EmotiBit Feature Test Protocol` document. -->
-<!--- For firmware, the corresponding results recorded in the `EmotiBit Feature Testing Results` sheet. -->
-<!--- For software, the corresponding results are recorded in the `EmotiBit Software Testing Records` sheet. -->
-<!--- Add the test heading from "EmotiBit Feature Test Protocol" here. -->
+## Unit Tests
+<!--- Unit tests should be checked into the Repository under the testing/test folder  -->
+
+|Unit Test | Result|
+|--------------|-------|
+|Feature test 1| ✔️ or ✖️|
 
 # Shared files
 - Firmware binary: [Link to firmware binary]
