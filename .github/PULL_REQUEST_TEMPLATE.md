@@ -5,11 +5,12 @@
 <!--- This sections defines on a high level what the reviewer might need to test/conduct a review. This can include other PRs, toolchains, softwares, files etc. -->
 <!--- For example, Requirements can be a specific branch of another repository that is a dependency. -->
 <!--- Another example can be downloading tools like VS or anaconda -->
-- PR #(Link PR)
+- [PR name](Link to PR)
 
 
 # Issues Referenced
-<!-- If Any -->
+<!-- Prefix issue number with keyword "Fixes" to automatically close issue on PR merge.-->
+<!-- FOr example, Fixes #34-->
 - Fixes # (issue)
 
 # Documentation update
